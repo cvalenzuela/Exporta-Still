@@ -1,6 +1,10 @@
-# Ex-porta Still: Visulize trade data.
+# Visualize International Trade Data.
 
 A Processing application to generate images based on international trade data.
+
+![Chile trade](data/01chiletrade.png)
+
+![Chile trade](data/05chiletrade.png)
 
 ![Exportations Blue](https://cloud.githubusercontent.com/assets/10605821/19215883/1e37c10a-8d78-11e6-83c2-b3f14df92b4e.jpg)
 
